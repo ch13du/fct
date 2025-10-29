@@ -1,2 +1,1 @@
-# fct
-An App to help people make reports
+# Test Repository Initialized for Codex
